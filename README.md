@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there, I'm Tanvir Hossen Sowrov 👋
 
-<!--
-**tanvirhsowrov/tanvirhsowrov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Full Stack Web Developer & NSDA Certified Digital Marketer (Level-4)
 
-Here are some ideas to get you started:
+- 💻 I build responsive web applications using HTML, CSS, JavaScript, and modern tools.
+- 📈 Specialized in Digital Marketing & Content Strategy (NSDA Level-4 Certified).
+- 🎓 Passionate about learning new technologies and solving real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Tools & Technologies:
+- **Frontend:** HTML5, CSS3, JavaScript, Bootstrap / Tailwind
+- **Marketing & SEO:** Social Media Marketing, Analytics, SEO Optimization
+- **Version Control:** Git, GitHub
